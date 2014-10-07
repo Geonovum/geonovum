@@ -1,13 +1,11 @@
 ### Geonovum Labs
 Geonovum Labs is de benaming voor de open data, open source en open overheid werkzaamheden van Geonovum. Onder de Labs noemer worden diverse initiatieven ontplooit en getest die naar openheid van processen en producten streven door inzet van nieuwe manieren van werken en moderne instrumenten. Het doel is om de diensten en producten van Geonovum dichter bij de gebruikers te brengen en ze mee te laten praten, ontwikkelen en schrijven.
 
-De Geonovum github organisatie herbergt ...
-
 Geonovum Labs bestaat uit
 
 * deze repository; beschrijft het globale idee en licht de _governance_ van de github organisatie toe
 * een [blog](http://geonovum.github.io) 
-* projecten ondergebracht in repositories
+* thematische repositories: standaarden, software, documentatie, handleidingen, etc.
 
 #### Principes
 Geonovum Labs streeft naar zoveel mogelijk openheid en interactie met gebruikers. We omarmen de volgende principes
@@ -41,7 +39,7 @@ Zie [CONTRIBUTING.md](https://github.com/Geonovum/geonovum-labs/blob/master/CONT
 
 #### Blijf op de hoogte
 
-* abboneer je op een van de repositories
+* abonneer je op een van de repositories
 * volg de [Geonovum Labs blog](http://geonovum.github.io)
 
 
