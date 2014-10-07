@@ -1,17 +1,17 @@
 ### Geonovum Labs
-Geonovum Labs streeft naar openheid van processen en producten door inzet van nieuwe manieren van werken en moderne instrumenten. Het doel is om de diensten en producten van Geonovum dichter bij de gebruikers te brengen en hun mee te laten praten, ontwikkelen en schrijven. 
+Geonovum Labs streeft naar openheid van processen en producten door inzet van nieuwe manieren van werken en moderne instrumenten. Het doel is om de diensten en producten van Geonovum dichter bij de gebruikers te brengen en ze mee te laten praten, ontwikkelen en schrijven. 
 
 #### Meedoen
 
 * sluit je aan bij een van de vele projecten en schrijf broncode
 * schrijf documentatie: elk project heeft goede documentatie nodig om bruikbaar te zijn. Hetzelfde geldt voor de algemene voorzieningen en services zoals PDOK/NGR en WMS/WFS
 * test de applicaties en meld problemen en issues
-* struin door de repositoryies en geef feedback, geef suggesties voor nieuwe repositories en projecten. 
+* struin door de repositories en geef feedback, geef suggesties voor nieuwe repositories en projecten. 
 * start een nieuw project
 
 #### Blijf op de hoogte
 
-* abboneer je op een van de repositories
+* abonneer je op een van de repositories
 * volg de [Geonovum Labs blog](http://geonovum.github.io)
 
 
