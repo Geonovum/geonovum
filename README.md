@@ -1,3 +1,10 @@
+### Reeds op github
+
+* [BGT IMGeo](https://github.com/Geonovum/BGT-IMGeo-standaard/ "BGT IMGeo") - Basisregistratie Grootschalige Topografie standaard
+* [IMWE 2014](https://github.com/Geonovum/imwe2014 "IMWE 2014") - Het Informatiemodel Welstand maakt het mogelijk om welstandseisen te raadplegen op een digitale kaart
+* [Sensor Observation Service](https://github.com/Geonovum/sospilot) - In this project air quality data provided is harvested and converted for further dispatching via the OGC SOS INSPIRE-enabled web-service and other standards like WMS/WFS
+* [PDOK Kaart](https://github.com/Geonovum/pdokkaart)
+
 ### Geonovum Labs
 Geonovum Labs is de benaming voor de open data, open source en open overheid werkzaamheden van Geonovum. Onder de Labs noemer worden diverse initiatieven ontplooit en getest die naar openheid van processen en producten streven door inzet van nieuwe manieren van werken en moderne instrumenten. Het doel is om de diensten en producten van Geonovum dichter bij de gebruikers te brengen en ze mee te laten praten, ontwikkelen en schrijven.
 
@@ -55,5 +62,11 @@ Kom je een project tegen die een of meerdere van deze bestandne mist? Attendeer 
 
 #### Vragen?
 
-Heb je vragen over een van de bovengenoemde zaken? Maak een nieuwe issue aan in de tracker en tag het met "faq".
+Heb je vragen over een van de bovengenoemde zaken? Maak een nieuwe issue aan in de tracker en tag het met "vraag".
 
+
+#### Overheid op github 
+
+
+* [Provincie Noord-Holland](https://github.com/provincieNH/ILS)
+* [GIS Competence Centre, Ministerie van Economische Zaken](https://github.com/MinELenI)
