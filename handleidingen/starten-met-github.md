@@ -1,6 +1,6 @@
 ## Starten met github
 
-Inloggen en rondstruinen
+### Inloggen en rondstruinen
 
 * maak een account op [github.com](https://github.com) en log in via de 'Sign in' knop in de rechterbovenhoek op de hoofdpagina
 * je komt nu op je persoonlijke hoofdpagina. In de linker kolom verschijnen straks updates over de repositories die je volgt en/of aan bijdraagt en de gebruikers die je volgt.  
@@ -41,7 +41,7 @@ TODO
 
 
 ### bestanden bewerken
-GitHub reposotory's kun je downloaden, lokaal bewerken en weer uploaden. Het downloaden heet in GitHub taal *pull* en het uploaden heet *push*. Voordat je *pulls* en *pushes* kan uitvoeren moet je een repository downloaden. Dit gaat het makkelijkst met de Windows GitHub client. Het voor het eerst downloaden van een repository heet in GitHub lingo *clone*. 
+GitHub repositories kun je downloaden, de bestanden ervan lokaal bewerken en weer uploaden. Het downloaden heet in GitHub taal *pull* en het uploaden heet *push*. Voordat je *pulls* en *pushes* kan uitvoeren moet je een repository *clonen* (voor het eerst downloaden). Dit gaat het makkelijkst met de Windows GitHub client. 
 
 Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn van de Geonovum organisatie. Nog geen lid? Stuur een bericht naar @ndkv of @lvdbrink.
 
