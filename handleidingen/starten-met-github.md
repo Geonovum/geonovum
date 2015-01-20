@@ -18,8 +18,8 @@ Naast repositories kent github het begrip *organisatie*. Een organisatie is een 
 
 * Surf naar de Geonovum repository
 * Je ziet een lijst van repositories; de repo die als laatste is aangepast staat bovenaan. Je kan de lijst doorzoeken door een term in de zoekbalk te tikken. Je kan alleen op (delen van) de naam van een repository zoeken. 
-* De Geonovum organisatie heeft een centrale repository waarin de "open werken" gedachte is beschreven en richtlijnen/handleidingen voor het gebruik van github staan
-* open de centrale Geonovum repository: tik 'labs' in het zoekveld en open de 'geonovum-labs' repository
+* De Geonovum organisatie heeft een centrale repository waarin de "open werken" gedachte waar we naar streven is beschreven en richtlijnen/handleidingen voor het gebruik van github staan
+* open de centrale Geonovum repository: tik 'geonovum' in het zoekveld en open de 'geonovum-labs' repository
 * je ziet een aantal bestanden. GitHub leest het README.md bestand automatisch uit en plaats de inhoud in het tekstveld eronder. 
 * klik op README.MD om deze te openen, je ziet de gestyleerde inhoud. GitHub begrijpt [Markdown](https://help.github.com/articles/github-flavored-markdown/) en [reStructured Text](http://docutils.sourceforge.net/docs/user/rst/quickstart.html).
 * klik op 'Raw' om het ruwe bestand te zien; klik op het potloodje om het bestand in je browser te bewerken.
