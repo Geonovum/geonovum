@@ -19,11 +19,10 @@ Naast repositories kent github het begrip *organisatie*. Een organisatie is een 
 * Surf naar de Geonovum repository
 * Je ziet een lijst van repositories; de repo die als laatste is aangepast staat bovenaan. Je kan de lijst doorzoeken door een term in de zoekbalk te tikken. Je kan alleen op (delen van) de naam van een repository zoeken. 
 * De Geonovum organisatie heeft een centrale repository waarin de "open werken" gedachte waar we naar streven is beschreven en richtlijnen/handleidingen voor het gebruik van github staan
-* open de centrale Geonovum repository: tik 'geonovum' in het zoekveld en open de 'geonovum-labs' repository
+* open de centrale Geonovum repository: tik 'geonovum' in het zoekveld en open de 'geonovum' repository
 * je ziet een aantal bestanden. GitHub leest het README.md bestand automatisch uit en plaats de inhoud in het tekstveld eronder. 
 * klik op README.MD om deze te openen, je ziet de gestyleerde inhoud. GitHub begrijpt [Markdown](https://help.github.com/articles/github-flavored-markdown/) en [reStructured Text](http://docutils.sourceforge.net/docs/user/rst/quickstart.html).
-* klik op 'Raw' om het ruwe bestand te zien; klik op het potloodje om het bestand in je browser te bewerken.
-
+* klik op 'Raw' om het ruwe bestand te zien.
 
 ### commits en issues
 De [git](http://git-scm.com/) in GitHub is een versiebeheersysteem... TODO...
@@ -55,17 +54,26 @@ Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn 
 * als het goed is heeft de client gemekrt dat je een bestand aangepast hebt: boven de *History* lijst staat *Uncomitted changes*
 * klik op *Show* om de veranderingen te tonen 
 * om de veranderingen op te slaan in het versiebeheersysteem moet je ze eerst committen 
-* Typ een korte beschrijving van de veranderingen in *Summary* en klik op *Commit to master*. De veranderingen zijn nu in je lokale kopie 'Testing' opgeslagen. 
+* Typ een korte beschrijving van de veranderingen in *Summary* en klik op *Commit to master*. De veranderingen zijn nu in je lokale kopie 'Testing' opgeslagen 
 *  Druk op *Sync* in de rechterbovenhoek om de veranderingen te pushen naar GitHub en ze zichtbaar te maken voor anderen
 
+Je kan bestanden ook in de browser aanpassen door op het potloodje in de rechterbovenhoek te klikken. 
+
+### samenwerken en pull requests 
+
+TODO
 
 ### overige functionaliteit   
 
+TODO
 
 #### Grafieken
 
+TODO
+
 #### Commentaar op broncode
 
+TODO
 
 ### Meer informatie
 
