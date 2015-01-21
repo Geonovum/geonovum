@@ -47,16 +47,16 @@ Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn 
 
 * download de [GitHub client voor Windows](http://github-windows.s3.amazonaws.com/GitHubSetup.exe)
 * open de client en klik op + in de linkerbovenhoek
-* selecteer *Clone*, selecteer *Geonovum* en klik op de repository die je wilt clonen.
+* selecteer *Clone*, selecteer *Geonovum* en klik op de 'testing' repository om deze te clonen.
 * de client haalt de repository op en slaat het lokaal op in de opgegeven locatie. Als het goed is staat het nu in de lijst aan de linker kant
 * klik met je rechteremuisknop op de repository en klik op *Open in Explorer* 
-* open een van de bestanden in je favoriete tekstbewerker
+* open README.md in je favoriete tekstbewerker
 * pas het aan, sla het op en keer terug naar de GitHub Client
-* als het goed is heeft de client gemekrt dat je een bestand aangepast hebt: boven de *History* lijst staat *Uncomitted changes*.
-* klik op *Show* om de veranderingen te tonen. 
-* om de veranderingen op te slaan in het versiebeheer systeem moet je ze eerst committen. 
-* Typ een korte beschrijving van de veranderingen in *Summary* en klik op *Commit to master*. De veranderingen zijn nu in je lokale kopie gecommit. 
-*  Druk op *Sync* in de rechterbovenhoek om de veranderingen te pushen naar GitHub en ze zichtbaar te maken voor anderen. 
+* als het goed is heeft de client gemekrt dat je een bestand aangepast hebt: boven de *History* lijst staat *Uncomitted changes*
+* klik op *Show* om de veranderingen te tonen 
+* om de veranderingen op te slaan in het versiebeheersysteem moet je ze eerst committen 
+* Typ een korte beschrijving van de veranderingen in *Summary* en klik op *Commit to master*. De veranderingen zijn nu in je lokale kopie 'Testing' opgeslagen. 
+*  Druk op *Sync* in de rechterbovenhoek om de veranderingen te pushen naar GitHub en ze zichtbaar te maken voor anderen
 
 
 ### overige functionaliteit   
