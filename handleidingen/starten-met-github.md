@@ -25,19 +25,7 @@ Naast repositories kent github het begrip *organisatie*. Een organisatie is een 
 * klik op 'Raw' om het ruwe bestand te zien.
 
 ### commits en issues
-De [git](http://git-scm.com/) in GitHub is een versiebeheersysteem... TODO...
-
-
-TODO
-
-* ...
-* je kan commits via verschillende manieren benadren 
-* commits worden voorzien van een korte beschrijving. Dit helpt anderen om snel te kunnen zien wat de verandering teweeg heeft gebracht
-* ...
-
-
-TODO
-
+De [git](http://git-scm.com/) in GitHub is een versiebeheersysteem... 
 
 ### bestanden bewerken
 GitHub repositories kun je downloaden, de bestanden ervan lokaal bewerken en weer uploaden. Het downloaden heet in GitHub taal *pull* en het uploaden heet *push*. Voordat je *pulls* en *pushes* kan uitvoeren moet je een repository *clonen* (voor het eerst downloaden). Dit gaat het makkelijkst met de Windows GitHub client. 
@@ -59,22 +47,6 @@ Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn 
 
 Je kan bestanden ook in de browser aanpassen door op het potloodje in de rechterbovenhoek te klikken. 
 
-### samenwerken en pull requests 
-
-TODO
-
-### overige functionaliteit   
-
-TODO
-
-#### Grafieken
-
-TODO
-
-#### Commentaar op broncode
-
-TODO
-
 ### Meer informatie
 
-De [git Book](http://git-scm.com/book/en/v2) is een bijzonder toegankelijke en helder geschreven handleiding.
+[git Book](http://git-scm.com/book/en/v2) is een bijzonder toegankelijke en helder geschreven handleiding.
