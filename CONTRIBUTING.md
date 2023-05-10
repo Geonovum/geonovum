@@ -1,4 +1,4 @@
-Er zijn vele manieren om bij te dragen aan de Geonovum Labs projecten. 
+Er zijn vele manieren om bij te dragen aan de Geonovum  projecten. 
 
 ### Broncode
 

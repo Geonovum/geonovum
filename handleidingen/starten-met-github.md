@@ -9,7 +9,6 @@
 * Stuur, zodra je klaar bent met ontdekken en grasduinen, een bericht naar @ndkv of @lvdbrink met daarin je github gebruikersnaam. Zij voegen je dan toe aan de Geonovum organisatie 
 * je bent nu klaar om te githubben!
 
-
 ### repositories en organisaties
 
 Een repository is simpelweg een mapje met inhoud. Het bevat andere mapjes,  tekstbestanden (xml, json, html, etc.), plaatjes, geo-informatie (geojson), 3D informatie (Wavefront/obj), etc. Github kan een groot aantal bestanden in de browser tonen: broncode met gekleurde syntax, geo-informatie op een kaart en 3D bestanden worden in een WebGL viewer getoond. 
@@ -30,7 +29,7 @@ De [git](http://git-scm.com/) in GitHub is een versiebeheersysteem...
 ### bestanden bewerken
 GitHub repositories kun je downloaden, de bestanden ervan lokaal bewerken en weer uploaden. Het downloaden heet in GitHub taal *pull* en het uploaden heet *push*. Voordat je *pulls* en *pushes* kan uitvoeren moet je een repository *clonen* (voor het eerst downloaden). Dit gaat het makkelijkst met de Windows GitHub client. 
 
-Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn van de Geonovum organisatie. Nog geen lid? Stuur een bericht naar @ndkv of @lvdbrink.
+Let op: voordat je een van de Geonovum repositories kan clonen moet je lid zijn van de Geonovum organisatie. Nog geen lid? Stuur een bericht naar @lvdbrink.
 
 * download de [GitHub client voor Windows](http://github-windows.s3.amazonaws.com/GitHubSetup.exe)
 * open de client en klik op + in de linkerbovenhoek
